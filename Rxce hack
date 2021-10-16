@@ -1,0 +1,9 @@
+# RXCE
+apt update 
+apt upgrade 
+pkg install git 
+pkg install wget 
+pkg install python 
+pkg install figlet 
+chmod +x Kunal13455
+./Kunal13455
