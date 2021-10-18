@@ -5,5 +5,5 @@ pkg install git
 pkg install wget 
 pkg install python 
 pkg install figlet 
-chmod +x Rxce hack 
-./Rxce hack
+chmod +x Rxce hack.3
+./Rxce hack.3
